@@ -27,3 +27,27 @@ Transformações de Lorentz. A nova interpretação da energia e do momento line
 6. Fótons e Ondas de Matéria: Fenômenos quânticos: radiação térmica, efeito fotoelétrico, efeito Compton. A luz como
 uma onda de probabilidade. Elétrons e ondas de matéria. A equação de Schroedinger. O princípio da incerteza.
 7. Física Nuclear: Propriedades dos núcleos. Decaimentos radioativos. Modelos nucleares. Aplicações da energia nuclear.
+
+## Avaliações
+Seguintes avaliações estão previstas :
+a. provas, durante as aulas síncronas. Valor: 10,0 pontos cada que compõem a Média das PRovas; (MPR);
+b. testes, durante as aulas síncronas. Valor: 10,0 pontos cada que compõem a Média dos TEstes; (MTE);
+c. trabalhos individuais ou em grupo assíncronos, com eventual apresentação síncrona. Valor: 10,0 pontos cada que compõem a Média dos TRabalhos; (MTR);
+d. até 1,0 ponto acima da média em participação em exercícios durante as aulas síncronas; (PE).
+
+Média parcial (MP) :
+MP = 0,3 * MPR + 0,3 * MTE + 0,4 * MTR + PE
+
+Aprovação direta com MP >= 7,0, senão vai para Prova Final (em 20/05/2021).  
+Prova Final - o conteúdo para a prova poderá ser todo aquele ministrado ao longo do semestre.  
+Média Final (MF) = (Nota da prova final + Média Parcial)/2  
+Aprovação com MP >= 5,0, senão reprovação na disciplina por nota.  
+O aluno também precisa ter 75% de assiduidade nas atividades para não ser reprovado por falta.
+
+## Monitoria
+
+Começa em 16/02/2021 a monitoria de "Física D" nesse semestre 2020-2 EARTE.
+É uma monitoria voluntária por parte da aluna Isabella Moraes de Melo.  
+Horários : 3a-feira 15h-17h, 5a-feira 15h-17h.  
+[Link do canal no Discord](https://discord.gg/cc373FQXRa)  
+[Link da sala no Google Meet](meet.google.com/fkx-mnfp-vyg)
